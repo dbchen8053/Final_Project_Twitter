@@ -9,3 +9,6 @@ Objective: Using NLP to analyze tweets to predict end user
 4. Use Tableau to visualize data 
 5. Create application to predict the end user with highest probability from given text/tweet 
 
+https://public.tableau.com/profile/david.chen5807#!/vizhome/tweet_1_15625702553110/Story1
+
+https://docs.google.com/presentation/d/1uVSYs9hFfGIeeroGqx9OJt8wJSwPmRCuQSZqjQtB9MU/edit#slide=id.g5d1ae1602d_0_131
